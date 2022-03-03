@@ -1,1 +1,2 @@
-console.error('Error');
+// Fixed.
+console.log('Error');
